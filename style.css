@@ -14,7 +14,8 @@ body, html {
 }
 .blog .dt-format-gallery .dt-format-gallery-coll.full,
 .archive .dt-format-gallery .dt-format-gallery-coll.full,
-.search .dt-format-gallery .dt-format-gallery-coll.full {
+.search .dt-format-gallery .dt-format-gallery-coll.full 
+{
 	display: none;
 }
 .wp-caption-text,
