@@ -12,15 +12,12 @@ Tags: one-column, two-columns, right-sidebar, flexible-width, custom-menu, edito
 body, html {
   height: 100%;
 }
-
 .blog .dt-format-gallery .dt-format-gallery-coll.full,
 .archive .dt-format-gallery .dt-format-gallery-coll.full,
 .search .dt-format-gallery .dt-format-gallery-coll.full
 {
 	display: none;
 }
-
-
 .wp-caption-text,
 .sticky,
 .gallery-caption,
